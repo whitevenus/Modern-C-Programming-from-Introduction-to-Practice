@@ -17,7 +17,6 @@
 - [第 2 章 类型](booknotes/chapter02.md) | ([课后练习答案](practice/chapter02/README.md))
 - [第 3 章 引用类型](booknotes/chapter03.md) | ([课后练习答案](practice/chapter03/README.md))
 - [第 4 章 对象的生命周期](booknotes/chapter04.md) | ([课后练习答案](practice/chapter04/README.md))
-- [第 4 章 对象的生命周期](booknotes/chapter04.md) | ([课后练习答案](practice/chapter04/README.md))
 - [第 5 章 运行时多态](booknotes/chapter05.md) | ([课后练习答案](practice/chapter05/README.md))
 - [第 6 章 编译时多态](booknotes/chapter06.md) | ([课后练习答案](practice/chapter06/README.md))
 - [第 7 章 表达式](booknotes/chapter07.md) | ([课后练习答案](practice/chapter07/README.md))
